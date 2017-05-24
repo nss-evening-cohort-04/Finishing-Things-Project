@@ -1,6 +1,6 @@
-#Finishing Things Project
+# Finishing Things Project
 
-##Requirements
+## Requirements
 
 - Use WebApi
 - Use Identity Framework
